@@ -1,0 +1,4 @@
+CHARACTERS:
+	Cinderella,
+	step-mother, 
+	step-sisters
